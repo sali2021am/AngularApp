@@ -23,9 +23,15 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+             
+              "src/styles.css",
+              "D:\\presentation_IAM\\angular2\\AngularApp\\node_modules\\bootstrap\\dist\\css\\bootstrap.min.css"
             ],
-            "scripts": []
+            "scripts": [
+          
+              "D:\\presentation_IAM\\angular2\\AngularApp\\node_modules\\bootstrap\\dist\\js\\bootstrap.min.js"
+              
+            ]
           },
           "configurations": {
             "production": {
@@ -97,5 +103,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }
